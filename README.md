@@ -43,9 +43,8 @@ The **Excel Data Importer** is a web application that allows users to upload `.x
 | **React Dropzone** | Drag-and-drop file upload |
 | **React Modal** | Error display modal |
 | **Node.js & Express** | Backend API (if applicable) |
-| **MongoDB / PostgreSQL** | Database for storing valid data (if applicable) |
+| **MongoDB** | Database for storing valid data |
 
 ---
 
-## 📂 Project Structure
 
