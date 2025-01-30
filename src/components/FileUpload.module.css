@@ -1,0 +1,27 @@
+.container {
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  .dropzone {
+    border: 2px dashed #007bff;
+    padding: 1.5rem;
+    text-align: center;
+    cursor: pointer;
+    background-color: #eef6ff;
+    transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+    color: #d32f2f;
+  }
+  
+  .dropzone:hover {
+    background-color: #ddefff;
+    border-color: #0056b3;
+  }
+  .error {
+    color: #d32f2f;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: bold;
+  }
+  
